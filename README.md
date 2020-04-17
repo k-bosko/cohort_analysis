@@ -1,5 +1,7 @@
 # Cohort Analysis
 
+Cohort Analysis allows to track user behavior over time and is the stepping stone in calculating **retention rates**.
+
 ## Installation
 - Python 3.7.3
 - Data: [Online Retail II Data Set, UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
@@ -36,5 +38,6 @@ I created cohorts based on monthly data between years 2009 and 2011, calculated 
 ## Results
 ![Retention Rates](retention_rates.png "Retention Rates")
 
-
+## Acknowledgement
+This project is part of ["Customer Segmentation in Python" course on Data Camp](https://learn.datacamp.com/courses/customer-segmentation-in-python) taught by Karolis Urbonas, Global Head of Machine Learning and Science at Amazon Web Services (AWS).
  
